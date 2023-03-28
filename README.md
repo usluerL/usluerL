@@ -4,6 +4,10 @@ I'm thrilled to share my passion for software development/devops. Here, you'll f
 Thanks for stopping by!  :tophat:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usluerl&show_icons=true&theme=radical&count_private=true) 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/user0250q/)](https://leetcode.com/user0250q/)
+
+
+
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
