@@ -1,5 +1,7 @@
-##### Welcome :raising_hand: to my newly created GitHub repository, as of March 2023!
-I'm thrilled to share my passion for software development/devops. Here, you'll find a collection of projects and code samples that showcase my skills and creativity in crafting reliable, efficient, and user-friendly software solutions. As a software developer and devOps enthusiast, I'm constantly seeking new challenges and opportunities to learn and grow, and this repository represents my ongoing journey towards better software development. I invite you to explore my work and connect with me if you're interested in collaborating or just want to chat. 
+##### Welcome :raising_hand: 
+This is my newly created, -mostly- public repository where I share various technology-related projects with the community 
+
+Here, you'll find a collection of projects and code samples that showcase my skills and creativity in crafting reliable, efficient, and user-friendly software solutions. As a software developer and devOps enthusiast, I'm constantly seeking new challenges and opportunities to learn and grow, and this repository represents my ongoing journey towards better software development. I invite you to explore my work and connect with me if you're interested in collaborating or just want to chat. 
 
 Thanks for stopping by!  :tophat:
 
